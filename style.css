@@ -1,0 +1,31 @@
+html, body
+{
+  margin: 0;
+  padding: 0;
+  text-aling: center;
+  overflow: hidden;
+}
+
+#cnv
+{
+  margin: 0;
+  padding: 0;
+}
+
+#kura
+{opacity: 0;}
+
+#head
+{opacity: 0;}
+
+#body
+{opacity: 0;}
+
+#s
+{opacity: 0;}
+
+#ss
+{opacity: 0;}
+
+#sss
+{opacity: 0;}
